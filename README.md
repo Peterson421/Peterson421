@@ -1,11 +1,13 @@
 ###Boas vindas ao meu perfil 🐉
 
-meu nome é Peterson
+Meu nome é Peterson
 
-Estou estudando alura 
-Estou me desenvolvendo na linguagem JavaScript
-Ultilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Vocẽ entrar em contato comigo 📞
 
-Peterson421
+po765630@gmail.com
+
+![](https://media.tenor.com/HFeeZJtAV3QAAAAj/corinthians-paulista-logo.gif)
